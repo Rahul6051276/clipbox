@@ -84,6 +84,9 @@ Try another server from the list, or retry. Sources are third-party and can come
 **Casting isn't showing my TV.**
 Make sure your phone and TV are on the **same Wi-Fi network**, then reopen the app.
 
+**What is the official website?**
+Our official domain is: https://cipbox.mov/
+
 ---
 
 ## ⚠️ Disclaimer
