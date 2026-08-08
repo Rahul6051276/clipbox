@@ -10,8 +10,6 @@ Browse movies and shows, play them in a polished player, and cast to your TV - a
 [![Version](https://img.shields.io/badge/version-1.5.6-blue?style=for-the-badge)](https://github.com/clipboxstreaming/releases/releases/latest)
 [![Platform](https://img.shields.io/badge/Android-8.0%2B-3ddc84?style=for-the-badge&logo=android&logoColor=white)](#requirements)
 [![Android TV](https://img.shields.io/badge/Android%20TV%20%26%20Fire%20TV-supported-3ddc84?style=for-the-badge&logo=androidtv&logoColor=white)](#-android-tv--fire-tv)
-[![Android](https://img.shields.io/badge/Chromebook supported?style=for-the-badge&logo=androidtv&logoColor=white)](#-android-tv--fire-tv)
-
 
 </div>
 
