@@ -73,6 +73,10 @@ ClipBox runs on the big screen as well as on your phone.
 
 **Sideloading onto a TV:** use an app such as **Downloader** and enter `clipbox.mov/download/clipbox.apk`, or copy the APK across with a file manager or USB stick. On Fire TV you'll need **Settings → My Fire TV → Developer Options → Install unknown apps** first.
 
+**You can also use our downloader-code for Fire TV:** 7092743
+
+**Or visit:** http://aftv.news/7092743
+
 Full instructions: **[clipbox.mov/tv](https://clipbox.mov/tv)**
 
 ---
