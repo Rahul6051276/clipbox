@@ -146,6 +146,6 @@ ClipBox reports anonymous usage information - device type, app version, language
 
 ---
 
-Made with ❤️ by **Zer0Dayz** — for people who just want to watch their favorite stuff.
+Made with ❤️ by **The ClipBox Team** — for people who just want to watch their favorite stuff.
 
 </div>
