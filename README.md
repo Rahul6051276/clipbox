@@ -87,7 +87,7 @@ Full instructions: **[clipbox.mov/tv](https://clipbox.mov/tv)**
 |---|---|
 | **OS** | Android 8.0 (Oreo) or newer |
 | **TV** | Android TV, Google TV or Fire TV |
-| **Size** | ~25 MB |
+| **Size** | ~30 MB |
 | **Internet** | Required (streaming) |
 | **For casting** | A Chromecast, Android TV, or DLNA-capable smart TV on the same Wi-Fi |
 | **Account** | Optional - everything works signed out |
